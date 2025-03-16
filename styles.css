@@ -1,13 +1,13 @@
 body {
   font-family: 'Arial' , sans-serif;
-  color: #333;
-  background: linear-gradient(to bottom, #e0f7fa, #b3e5fc);
+  color: #696969;
+  background: linear-gradient(to bottom, #C0C0C0, #D3D3D3);
   margin: 0;
   padding: 0;
 }
 h1 {
   text-align: center;
-  color: #0044cc;
+  color: #000000;
   margin-top: 50px;
   font-family: 'Georgia', serif;
 }
@@ -22,7 +22,7 @@ h1 {
   height: 300px;
   margin: 10px;
   text-align: center;
-  border: 2px solid #0044cc;
+  border: 2px solid #708090;
   background-color: #fff;
   font-size: 18px;
   border-radius: 10px;
@@ -38,7 +38,7 @@ h1 {
 }
 .cell a {
   text-decoration: none;
-  color: #0044cc;
+  color: #708090;
   font-weight: bold;
   display: block;
   padding: 15px 0;
